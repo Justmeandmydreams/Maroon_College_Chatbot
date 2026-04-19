@@ -1,4 +1,4 @@
-const API_URL = "https://maroon-chatbot-backend.azurewebsites.net/chat";
+const API_URL = "https://maroon-chatbot-backend-cqfqapbdbrfvcjdm.swedencentral-01.azurewebsites.net/chat";
 
 function addMessage(message, sender) {
     const chatBox = document.getElementById("chat-box");
